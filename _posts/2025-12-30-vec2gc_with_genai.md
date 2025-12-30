@@ -1,4 +1,8 @@
-# Leveraging GenAI to Write Custom Code for Graph-Based Clustering
+---
+layout: post
+title: Building Vec2GC using GenAI 
+---
+---# Leveraging GenAI to Write Custom Code for Graph-Based Clustering
 
 Over a recent long weekend, I revisited a partially completed project: implementing the **Vec2GC** algorithm for graph-based clustering. I had originally worked on this some time ago and wanted to reimplement it from scratch—this time with a cleaner, more maintainable design than the version written for the original paper.
 
