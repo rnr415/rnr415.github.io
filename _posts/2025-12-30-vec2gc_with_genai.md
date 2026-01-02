@@ -44,7 +44,7 @@ However, while chunking helped, it still required storing large intermediate sim
 
 The next major design change eliminated the **full n×n similarity matrix** altogether.
 
-Rather than computing and storing all similarities upfront, the updated implementation computes similarities **on the fly during graph construction**. This reduces memory complexity from $O(n^2)$ to $O(n × d)$, where $d$ is the embedding dimension. 
+Rather than computing and storing all similarities upfront, the updated implementation computes similarities **on the fly during graph construction**. This reduces memory complexity from $ O(n^2) $ to $ O(n × d) $, where $ d $ is the embedding dimension. 
 
 Key aspects of this redesign included:
 
