@@ -14,5 +14,5 @@ Currently I work primarily with GenAI based eco-systems to build solutions at sc
 
 ### Contact me
 
-[email@domain.com](mailto:rnr415@gmail.com)
+[mail](mailto:rnr415@gmail.com) <br />
 [linkedin](https://www.linkedin.com/in/nrajeshrao/)
