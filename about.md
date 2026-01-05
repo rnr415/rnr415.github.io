@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I work as a Principal Data Scientist at Walmart. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have work predominantly in NLP, Language Modeling and Machine Learning for the past 15 years. 
+
+Currently I work primarily with GenAI based eco-systems to build solutions at scale. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:rnr415@gmail.com)
+[linkedin](https://www.linkedin.com/in/nrajeshrao/)
