@@ -12,7 +12,3 @@ I have work predominantly in NLP, Language Modeling and Machine Learning for the
 
 Currently I work primarily with GenAI based eco-systems to build solutions at scale. 
 
-### Contact me
-
-[mail](mailto:rnr415@gmail.com) <br />
-[linkedin](https://www.linkedin.com/in/nrajeshrao/)
